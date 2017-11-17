@@ -1,0 +1,25 @@
+{
+  "name": "sample-webworker",
+  "version": "1.0.0",
+  "description": "web worker exploration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RajeshSivanesan/sample-webworker.git"
+  },
+  "keywords": [
+    "webworker"
+  ],
+  "author": "RajeshSivanesan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RajeshSivanesan/sample-webworker/issues"
+  },
+  "homepage": "https://github.com/RajeshSivanesan/sample-webworker#readme",
+  "dependencies": {
+    "live-server": "^1.2.0"
+  }
+}
